@@ -1,0 +1,201 @@
+{
+  "Policy": {
+    "PolicyNumber": "NBSH005000598P",
+    "ProductIdentifier": "Nationwide Home",
+    "ID": "2394",
+    "AmendmentDatetime": "2023-03-23",
+    "BlockPolicyFlag": "0",
+    "BATCHID": 983,
+    "PolicyCreationDate": "2023-03-23",
+    "OriginalEffectiveDate": "2023-03-23",
+    "PolicyEffectiveDate": "2023-03-23",
+    "PolicyExpiryDate": "2024-03-23",
+    "RenewalDate": "2024-03-23",
+    "LastAmendmentType": {
+      "ActualValue": "New Business"
+    },
+    "PolicyStatus": {
+      "ActualValue": "inforce"
+    },
+    "PolicyType": {
+      "ActualValue": "HOPHomeowners"
+    },
+    "RISKID": 1894,
+    "PremiumPaymentPlan": [
+      {
+        "RouteToMarket": "Nationwide Building Society"
+      }
+    ],
+    "Address": [
+      {
+        "ADDRESSLINE1": "17",
+        "ADD_Subtype": "JOINTPOLICYHOLDER"
+      },
+      {
+        "ADDRESSLINE1": "17",
+        "ADD_Subtype": "POLICYHOLDER"
+      },
+      {
+        "ADDRESSLINE1": "17",
+        "ADD_Subtype": "RISKADDRESS"
+      }
+    ],
+    "Premium": [
+      {
+        "LimitAmount": 500
+      },
+      {
+        "LimitAmount": 5000
+      },
+      {
+        "LimitAmount": 50000
+      },
+      {
+        "LimitAmount": 999999
+      }
+    ],
+    "SectionsOfCover": [
+      {
+        "SectionOfCover": {
+          "SumInsured": {
+            "Amount": 500
+          },
+          "SectionOfCoverType": {
+            "ActualValue": "HOH1HomeEmergency_Ext"
+          }
+        }
+      },
+      {
+        "SectionOfCover": {
+          "SumInsured": {
+            "Amount": 5000
+          },
+          "SectionOfCoverType": {
+            "ActualValue": "HOC12Contents_Ext"
+          }
+        }
+      },
+      {
+        "SectionOfCover": {
+          "SumInsured": {
+            "Amount": 50000
+          },
+          "SectionOfCoverType": {
+            "ActualValue": "HOC2Contents_Ext"
+          }
+        }
+      },
+      {
+        "SectionOfCover": {
+          "SumInsured": {
+            "Amount": 50000
+          },
+          "SectionOfCoverType": {
+            "ActualValue": "HOC5Contents_Ext"
+          }
+        }
+      },
+      {
+        "SectionOfCover": {
+          "SumInsured": {
+            "Amount": 50000
+          },
+          "SectionOfCoverType": {
+            "ActualValue": "HOLLegalExpenses_Ext"
+          }
+        }
+      },
+      {
+        "SectionOfCover": {
+          "SumInsured": {
+            "Amount": 999999
+          },
+          "SectionOfCoverType": {
+            "ActualValue": "HOB1Buildings_Ext"
+          }
+        }
+      },
+      {
+        "SectionOfCover": {
+          "SumInsured": {
+            "Amount": 999999
+          },
+          "SectionOfCoverType": {
+            "ActualValue": "HOB3Buildings_Ext"
+          }
+        }
+      }
+    ],
+    "PolicyHolders": [
+      {
+        "PolicyHolder": {
+          "DateOfBirth": "1979-01-01T00:00:00",
+          "EmailAddress": {
+            "EmailAddress": "test@rsaautomation.com"
+          },
+          "Name": {
+            "First": "Idbfpx",
+            "Last": "Nopjnm",
+            "Title": "mr"
+          },
+          "ContactNumbers": {
+            "ContactNumber": {
+              "Number": "07450821345"
+            }
+          },
+          "RiskFactors": {
+            "RiskFactor": {
+              "Identifier": 1894
+            }
+          }
+        }
+      }
+    ],
+    "InsuredPeople": [
+      {
+        "InsuredPerson": {
+          "DateOfBirth": "1979-01-01T00:00:00",
+          "EmailAddress": {
+            "EmailAddress": "test@rsaautomation.com"
+          },
+          "Name": {
+            "First": "Idbfpx",
+            "Last": "Nopjnm",
+            "Title": "mr"
+          },
+          "ContactNumbers": {
+            "ContactNumber": {
+              "Number": "07450821345"
+            }
+          },
+          "RiskFactors": {
+            "RiskFactor": {
+              "Identifier": 1894
+            }
+          }
+        }
+      }
+    ],
+    "PolicyProcessors": [
+      {
+        "PolicyProcessor": {
+          "Name": {
+            "First": "Idbfpx",
+            "Last": "Nopjnm",
+            "Title": "mr"
+          }
+        }
+      }
+    ],
+    "InsuredPropertyAddresses": {
+      "InsuredPropertyAddress": {
+        "UnOccupiedFlag": "NO",
+        "YearBuilt": "2000",
+        "PropertyUsage": {
+          "PropertyType": "MidTerracedHouse"
+        },
+        "AlarmFittedFlag": "Other Alarm"
+      }
+    }
+  }
+}
